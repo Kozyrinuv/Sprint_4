@@ -75,6 +75,7 @@ public class CheckListTest {
             e.printStackTrace();
         }
     }
+
 //-----------------------------------------------------------
 }//end public class Praktikum
 

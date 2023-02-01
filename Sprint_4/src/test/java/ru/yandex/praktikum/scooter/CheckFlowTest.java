@@ -10,6 +10,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import ru.yandex.praktikum.scooter.pageobjects.ScooterHomePage;
 import ru.yandex.praktikum.scooter.pageobjects.ScooterPersonPage;
 import ru.yandex.praktikum.scooter.pageobjects.ScooterRentPage;
+
 import java.util.concurrent.TimeUnit;
 
 // Класс с автотестом проверки "Всего флоу позитивного сценария"
