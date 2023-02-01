@@ -77,6 +77,6 @@ public class CheckListTest {
     }
 
 //-----------------------------------------------------------
-}//end public class Praktikum
+}//dend public class Praktikum
 
 

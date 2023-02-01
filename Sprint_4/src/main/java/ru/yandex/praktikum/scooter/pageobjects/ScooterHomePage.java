@@ -132,7 +132,7 @@ public class ScooterHomePage {
         }
     }
 //-------------------------------------------------------------------------------------------
-}//end class HomePageScooter
+}//eend class HomePageScooter
 
 
 

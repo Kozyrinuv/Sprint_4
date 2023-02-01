@@ -179,7 +179,7 @@ public class ScooterRentPage {
         }
     }
 //--------------------------------------------------------------------------
-}//end public class RentPage
+}//eend public class RentPage
 
 
 
